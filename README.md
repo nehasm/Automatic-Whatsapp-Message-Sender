@@ -10,3 +10,5 @@ The number of message to be send can be set easily, hence it automate the work o
 * run the automation.py file.
 
 ## Output
+
+<img height=400 width=250 src="https://github.com/nehasm/Automatic-Whatsapp-Message-Sender/blob/master/output.PNG">
